@@ -191,7 +191,7 @@ function Scene() {
 const PROJECTS = [
   { id: "01", title: "NOTIVEAPP", sub: "Productivity & Note Taking", desc: "A robust, cross-platform notes application leveraging Flutter and Riverpod for seamless state management.", link: "https://github.com/RaahimAlavi/notiveapp", image: "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&q=80&w=600" },
   { id: "02", title: "WEATHERLY", sub: "Live Meteorology Dashboard", desc: "Real-time weather tracking featuring beautiful UI transitions, API integration, and location services.", link: "https://github.com/RaahimAlavi/Weatherly", image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600" },
-  { id: "03", title: "X-RAYREALITY", sub: "Augmented Reality / UX", desc: "An experimental AR interface bridging digital information with physical environments.", link: "https://github.com/RaahimAlavi/X-RayReality", image: "https://ik.imagekit.io/raahimalavi/xrayreality" }
+  { id: "03", title: "X-RAYREALITY", sub: "Augmented Reality / UX", desc: "An experimental AR interface bridging digital information with physical environments.", link: "https://github.com/RaahimAlavi/X-RayReality", image: "https://ik.imagekit.io/raahimalavi/xrayreality?updatedAt=1778792089773" }
 ];
 
 function ProjectImageFollower({ imageUrl }: { imageUrl: string | null }) {
